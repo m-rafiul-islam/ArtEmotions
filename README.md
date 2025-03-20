@@ -51,6 +51,7 @@ Future enhancements to ArtEmotions could include:
 <ol>
   <li>Mohammad, S. M., & Kiritchenko, S. (2018). WikiArt Emotions: An Annotated Dataset of Emotions Evoked by Art. In Proceedings of the 11th Edition of the Language Resources and Evaluation Conference (LREC-2018), Miyazaki, Japan. European Language Resources Association (ELRA).</li>
   <li></li> 
-
- <h1>Appendix</h1> 
+</ol>  
+  
+<h1>Appendix</h1> 
  Any additional stuffs that we want to in the paper but not in the main part. 
