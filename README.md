@@ -59,6 +59,9 @@ Future enhancements to ArtEmotions could include:
 - Larger Dataset: Augmenting the dataset with more artworks to improve model generalization.
 - Real-Time Analysis: Developing applications that provide real-time predictions of emotional responses to new artworks.
 
+<h1>Contribution</h1>
+"Author A contributed to the conceptualization of the study, while Author B implemented the software and performed the data analysis. Author C wrote the initial draft of the paper, and all authors contributed to the final version.
+
 <h1>References</h1>
 <ol>
   <li>Mohammad, S. M., & Kiritchenko, S. (2018). WikiArt Emotions: An Annotated Dataset of Emotions Evoked by Art. In Proceedings of the 11th Edition of the Language Resources and Evaluation Conference (LREC-2018), Miyazaki, Japan. European Language Resources Association (ELRA).</li>
